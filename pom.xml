@@ -14,6 +14,7 @@
 
 	<modules>
 		<module>shiro_study_1</module>
+		<module>shiro_study_2</module>
 	</modules>
 
 	<properties>
